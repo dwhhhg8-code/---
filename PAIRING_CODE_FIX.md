@@ -32,5 +32,5 @@ The function now follows the official Baileys behavior:
 After pulling this commit, reinstall the GitHub dependency in the bot project so npm fetches the updated fork revision:
 
 ```bash
-npm install --save github:mzml-gg/baileys-by-hulk
+npm install --save github:dwhhhg8-code/---
 ```

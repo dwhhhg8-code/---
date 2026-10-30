@@ -1,9 +1,9 @@
 {
-  "name": "Baileys",
+  "name": "flash-baileys",
   "version": "1.0.0",
-  "description": "Baileys modificada",
+  "description": "Flash Bot Baileys - WhatsApp Multi Device library (fork)",
   "main": "lib/index.js",
-  "author": "Carlos",
+  "author": "haitham",
   "license": "MIT",
   "scripts": {
     "start": "node lib/index.js",
@@ -35,5 +35,13 @@
   },
   "engines": {
     "node": ">=22.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhhhg8-code/---.git"
+  },
+  "homepage": "https://github.com/dwhhhg8-code/---#readme",
+  "bugs": {
+    "url": "https://github.com/dwhhhg8-code/---/issues"
   }
 }
