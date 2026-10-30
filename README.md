@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" alt="Balis Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/d6/0c/06/d60c06e078e01eab233c586c2904c2bc.png" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">
-  <span style="color:red; font-size:55px;">𝑴𝑶𝑵𝑻𝑬 𝑫𝑬𝑽</span>
+  <span style="color:red; font-size:55px;">𝖍𝖆𝖎𝖙𝖍𝖆𝖒</span>
 </h1>
 
 <h3 align="center">𝖍𝖆𝖎𝖙𝖍𝖆𝖒</h3>
